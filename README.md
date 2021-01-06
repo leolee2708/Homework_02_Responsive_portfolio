@@ -19,6 +19,10 @@ For contact form, i used d-flex collumn from bootstrap and jumbotron to have the
 For index, I used jumbotron to have it looks like the example and media responsive.
 
 I Also enabling media queries by allowing media to all.
+Here are some pictures for my responsive portfolio
+![alt HW2DEMO](./Assets/Images/HW2_1.png)
+![alt HW2DEMO](./Assets/Images/HW2_2.png)
+![alt HW2DEMO](./Assets/Images/HW2_4.png)
 
 For the BONUS PART, i also created a sticky footer with copy rights with my name.
 
