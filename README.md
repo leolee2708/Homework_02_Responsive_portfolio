@@ -1,5 +1,7 @@
 # Homework_02_Responsive-Portfolio-HW 
-
+**New updates on my responsive portfolio
+![alt HW2DEMO](./Assets/Images/ResponsivePrtfolio1.png)
+![alt HW2DEMO](./Assets/Images/ResponsivePrtfolio2.png)
 
 Overview I created a responsive portfolio which includes a group 3 files naming Contact, Portlio and Index all ends with. html
 
@@ -25,5 +27,7 @@ Here are some pictures for my responsive portfolio
 ![alt HW2DEMO](./Assets/Images/HW2_4.png)
 
 For the BONUS PART, i also created a sticky footer with copy rights with my name.
+
+
 
 Thank you for reading and grading my HOMEWORK!
